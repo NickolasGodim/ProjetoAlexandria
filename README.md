@@ -1,2 +1,2 @@
-# ProjetoLivraria
-Projeto site de uma livraria
+# ProjetoAlexandria
+Projeto de um site para uma livraria ficticia Alexandria
